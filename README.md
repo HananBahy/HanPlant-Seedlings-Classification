@@ -5,6 +5,8 @@ link of competition : https://www.kaggle.com/c/plant-seedlings-classification
 
 Data: https://www.kaggle.com/c/plant-seedlings-classification/data
 
+Author: https://www.kaggle.com/miklgr500
+
 general steps:
   - assign class for each type by number from 0 to 12
   - Build CNN by using written functions:
