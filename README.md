@@ -21,7 +21,8 @@ general steps:
    - Test our model  using test_model(..) 
    
    
-   Notes:- - we apply some transformations on our train images to increas the size of data using ImageDataGenerator( ....)
+   Notes:-
+           - we apply some transformations on our train images to increas the size of data using ImageDataGenerator( ....)
            - we use some functions to get plant class on image,.....
   
 
