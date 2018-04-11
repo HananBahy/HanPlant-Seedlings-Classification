@@ -8,6 +8,7 @@ Data: https://www.kaggle.com/c/plant-seedlings-classification/data
 general steps:
   - assign class for each type by number from 0 to 12
   - Build CNN by using written functions:
+  
                    -get_model(..) -----in this function we build CNN (convolution layers +Nural network)
                          -conv_layer(..)  -----------is used to build convolution layers,#aftr 2 convolution layer 
                                                    ,we apply maxPooling to reduce the size of  data ,reduce overfitting ,.....   
